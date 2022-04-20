@@ -6,6 +6,10 @@
 
 --Certain features like add to cart, view cart and checkout are available here
 
+
+![Screenshot (1284)](https://user-images.githubusercontent.com/66181120/164201744-3414ac84-8abf-4da8-9725-0b076add7123.png)
+
+
 //DEMONSTRATION--
 
 
