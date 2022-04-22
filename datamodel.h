@@ -49,6 +49,7 @@ public:
     string getItemInfo()
     {
         return to_string(quantity) + " x " + product.name + " Rs. " + to_string(quantity * product.price) + "\n";
+        // 2 X apple Rs. 20
     }
     friend class Cart;
 };
